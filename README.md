@@ -4,6 +4,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+And has had ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ghaiyur-musubi.ract-todo) !
+
 ## Available Scripts
 
 In the project directory, you can run:
